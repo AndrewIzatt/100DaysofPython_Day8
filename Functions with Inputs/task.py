@@ -9,4 +9,4 @@ def name_greet(name):
     print(f"Hello {name}")
     print(f"How do you do, {name}?")
 
-name_greet("Andrew")
+name_greet("Bob")
